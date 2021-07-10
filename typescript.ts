@@ -60,7 +60,7 @@
 //             super(name,age,phone);
             
 //             this.salary = salary;
-//         }
+//         }f
 
 //         showInfos(){
 //             super.showInfos();

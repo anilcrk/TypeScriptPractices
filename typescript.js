@@ -52,7 +52,7 @@ var __extends = (this && this.__extends) || (function () {
 //         constructor(name:string,age:number,phone:string,salary:number){
 //             super(name,age,phone);
 //             this.salary = salary;
-//         }
+//         }f
 //         showInfos(){
 //             super.showInfos();
 //             console.log("Maaş : "+ this.salary);
